@@ -1,1 +1,1 @@
-If you are reading this press Alt+F4.
+This programm is counting (3 + 5).
