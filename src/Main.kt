@@ -1,5 +1,9 @@
+fun hw() {
+    println("Hello, World!")
+}
 fun main() {
     val a = 3
     val b = 5
-    print(a + b)
+    println(a + b)
+    hw()
 }
